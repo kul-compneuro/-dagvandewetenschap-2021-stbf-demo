@@ -4,6 +4,8 @@ Spatiotemporal beamforming demo with Jupyter notebook
 
 ## Demo
 
+This Jupyter [notebook](https://gitlab.com/arnevdk/offline-stbf-demo/-/blob/main/demo.ipynb)
+shows the spatiotemporal beamformer applied to an event-related potential classification problem.
 ## References
  
 * M. Van Vliet et al., “Single-trial erp component analysis using a spatiotemporal lcmv beamformer,” 
