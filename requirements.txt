@@ -1,0 +1,10 @@
+jupyter
+mne
+kaggle
+numpy
+scipy
+pandas
+matplotlib
+sklearn
+seaborn
+git+ssh://git@gitlab.kuleuven.be/compneuro/mcbf-python.git#egg=mcbf
